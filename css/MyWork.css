@@ -1,3 +1,47 @@
 header{
-	background-color: hotpink;
+	background-color: pink;
+	text-align: center;
+}
+
+body h1{
+	font-size: 20px;
+}
+
+footer{
+	background-color: #E77EFF;
+	text-align: center;
+}
+
+footer h1{
+	font-size: 15px;
+}
+
+body img{
+	border-radius: 300px;
+	width: 190px;
+	border: 8px solid black;
+	margin-left: 255px;
+	margin-top: 20px;
+	margin-bottom: 7px;
+}
+
+body h1{
+	margin-left: 100px;
+}
+
+body button{
+	margin-left: 320px;
+	background-color: #FF9152;
+}
+
+header h1{
+	font-size: 17px;
+}
+
+header h3{
+	font-size: 20px;
+}
+
+header h2{
+	font-size: 27px;
 }
