@@ -1,3 +1,6 @@
+
+
+
 header{
 	background-color: pink;
 	text-align: center;
@@ -16,7 +19,7 @@ footer h1{
 	font-size: 15px;
 }
 
-body img{
+img.rock-picture{
 	border-radius: 300px;
 	width: 190px;
 	border: 8px solid black;
