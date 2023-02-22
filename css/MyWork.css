@@ -19,6 +19,12 @@ footer h1{
 	font-size: 15px;
 }
 
+img.skillshare-picture{
+	width: 190px;
+	margin-left: 600px;
+	margin-top: -100px;
+}
+
 img.rock-picture{
 	border-radius: 300px;
 	width: 190px;
