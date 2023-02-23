@@ -1,6 +1,4 @@
 
-
-
 header{
 	background-color: pink;
 	text-align: center;
@@ -20,9 +18,10 @@ footer h1{
 }
 
 img.skillshare-picture{
-	width: 190px;
-	margin-left: 600px;
-	margin-top: -100px;
+    width: 190px;
+    margin-left: 985px;
+    margin-top: -100px;
+  border-radius: 50px;
 }
 
 img.rock-picture{
@@ -53,4 +52,26 @@ header h3{
 
 header h2{
 	font-size: 27px;
+}
+
+h1.skillshare-text{
+  margin-left: 880px;
+}
+
+a.skillshare-button{
+  margin-left: 728px;
+}
+
+img.why-picture{
+	width: 200px;
+	margin-right: 200px;
+	margin-left: 385px;
+}
+
+h1.why-text{
+	margin-left: 260px;
+}
+
+a.why-button{
+	margin-left: 140px;
 }
