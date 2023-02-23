@@ -75,3 +75,7 @@ h1.why-text{
 a.why-button{
 	margin-left: 140px;
 }
+
+body h1{
+	font-family: 'Noto Sans', sans-serif;
+}
