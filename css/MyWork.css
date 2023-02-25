@@ -11,8 +11,6 @@ body h1{
 footer.info-footer{
     background-color: #E77EFF;
     text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
 }
 
 footer h1{
@@ -21,8 +19,6 @@ footer h1{
 
 img.skillshare-picture{
     width: 190px;
-    margin-left: 985px;
-    margin-top: -100px;
   border-radius: 50px;
 }
 
@@ -30,17 +26,10 @@ img.rock-picture{
     border-radius: 300px;
     width: 190px;
     border: 8px solid black;
-    margin-left: 255px;
-    margin-top: 20px;
-    margin-bottom: 7px;
 }
 
-body h1{
-    margin-left: 100px;
-}
 
 body button{
-    margin-left: 320px;
     background-color: #FF9152;
 }
 
@@ -56,27 +45,11 @@ header h2{
     font-size: 27px;
 }
 
-h1.skillshare-text{
-  margin-left: 880px;
-}
-
-a.skillshare-button{
-  margin-left: 728px;
-}
-
 img.why-picture{
     width: 200px;
-    margin-right: 200px;
-    margin-left: 385px;
 }
 
-h1.why-text{
-    margin-left: 260px;
-}
 
-a.why-button{
-    margin-left: 140px;
-}
 
 body h1{
     font-family: 'Noto Sans', sans-serif;
@@ -84,75 +57,25 @@ body h1{
 
 img.why-2-picture{
     width: 120px;
-    margin-left: 550px;
-    margin-top: -100px;
 }
 
 h1.why-2-text{
-    margin-left: 965px;
     font-size: 25px;
 }
 
-h1.why-2-text-2{
-    margin-left: 890px;
-}
 
 img.what-can-i-do-picture{
   width: 300px;
-  margin-left: 300px;
-  margin-top: -350px;
-}
-
-h1.what-can-i-do-text{
-  margin-left: 378px;
-}
-
-h1.what-can-i-do-text-2{
-  margin-left: 250px;
-  margin-top:-14px;
-}
-
-img.what-do-i-want-to-be-able-to-do-picture{
-  width: 200px;
-  margin-left: 910px;
-  margin-top: -120px;
-}
-
-h1.what-do-i-want-to-be-able-to-do-text{
-  margin-left: 867px;
-}
-
-h1.what-do-i-want-to-be-able-to-do-text-2{
-  margin-left: 812px;
 }
 
 li.info{
   text-align: left;
-  margin-left: 20px;
 }
 
-footer h1.info-h1{
-  margin-right: 80px;
-}
 
 footer.creator{
   background-color: purple;
   text-align: left;
-  margin-left: 520px;
-  margin-right: 480px;
-}
-
-header{
-  margin-left: 350px;
-  margin-right: 350px;
-}
-
-header h1{
-  margin-top: -18px;
-}
-
-header h3{
-  margin-top: -24px;
 }
 
 h6{
@@ -167,4 +90,58 @@ footer h7{
 footer h4{
   color: purple;
   font-size: 6px;
+}
+
+div.test{
+	background-color: #23C8FD;
+	margin-left: 830px;
+	margin-bottom: 30px;
+	margin-top: -40px;
+	margin-right: 60px;
+}
+
+img.what-do-i-want-to-be-able-to-do-picture{
+	width: 270px;
+	margin-left: 145px;
+}
+
+h1.wdiwtbatd{
+	font-size: 7px;
+	color: #23C8FD;
+}
+
+div.rock{
+	background-color: #6C6C6C;
+	margin-left: 120px;
+	margin-right: 720px;
+	text-align: center;
+	margin-top: 40px;
+}
+
+div.rock h2{
+	font-size: 8px;
+	color: #6C6C6C;
+}
+
+div.header{
+	margin-left: 270px;
+	margin-right: 270px;
+}
+
+div.header h5{
+	color: pink;
+	font-size: 8px;
+}
+
+div.skillshare{
+	background-color: lightgreen;
+	text-align: center;
+	margin-left: 800px;
+	margin-right: 40px;
+	margin-top: -120px;
+}
+
+div.skillshare h2{
+	font-size: 8px;
+	color: lightgreen;
 }
