@@ -83,14 +83,7 @@ h6{
   font-size: 6px;
 }
 
-footer h7{
-  color: #E77EFF;
-}
 
-footer h4{
-  color: purple;
-  font-size: 6px;
-}
 
 div.test{
 	background-color: #23C8FD;
@@ -98,11 +91,11 @@ div.test{
 	margin-bottom: 30px;
 	margin-top: -40px;
 	margin-right: 60px;
+	text-align: center;
 }
 
 img.what-do-i-want-to-be-able-to-do-picture{
 	width: 270px;
-	margin-left: 145px;
 }
 
 h1.wdiwtbatd{
@@ -144,4 +137,64 @@ div.skillshare{
 div.skillshare h2{
 	font-size: 8px;
 	color: lightgreen;
+}
+
+div.why{
+	background-color: #E77EFF;
+	text-align: center;
+	margin-right: 750px;
+	margin-left: 65px;
+	margin-top: -130px;
+}
+
+div.why h2{
+	color: #E77EFF;
+	font-size: 8px;
+}
+
+div.why-2{
+	text-align: center;
+	background-color: #F963FF;
+	margin-left: 760px;
+	margin-top: -90px;
+	margin-right: 9px;
+}
+
+div.why-2 h2{
+	color: #F963FF;
+	font-size: 8px;
+}
+
+div.wcid{
+	background-color: #FFBD80;
+	text-align: center;
+	margin-right: 720px;
+	margin-left: 40px;
+	margin-top: -230px;
+}
+
+div.wcid h2{
+	font-size: 8px;
+	color: #FFBD80;
+}
+
+div.iam{
+	margin-right: 720px;
+	margin-left: 40px;
+	margin-top: -230px;
+}
+
+div.iam h2{
+	color: #E77EFF;
+	font-size: 8px;
+}
+
+div.creator{
+	text-align: center;
+	background-color: purple;
+}
+
+div.creator h2{
+	color: purple;
+	font-size: 8px;
 }
